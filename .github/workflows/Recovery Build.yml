@@ -212,6 +212,11 @@ jobs:
             ;;
           14)
             patchNum=7371
+            patchNum=7543
+            patchNum=7553
+            patchNum=7671
+            patchNum=7717
+            patchNum=7718
             ;;
         esac
         source build/envsetup.sh
